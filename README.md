@@ -9,6 +9,8 @@ Eventually there could even be a type of unified runtime environment, or launche
 
 Note: This project will run on donations alone, for my upkeep over time, but still be fully open source. 
 
+Starting source for finding truly P2P apps: https://wiki.p2pfoundation.net/Category:P2P_Infrastructure#Top_Projects_at_this_moment - Of course they won't all meet our criteria.
+
 
 # THE RULES
 All apps listed are carefully vetted to ensure they follows certain Rules: 
@@ -25,6 +27,8 @@ All apps listed are carefully vetted to ensure they follows certain Rules:
 
 
 # Listing categories:
+
+The categories can grow all the time but here are some likely first-string application categories:
 
 * Web (including TOR)
 * Money 
