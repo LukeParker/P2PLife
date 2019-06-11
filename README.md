@@ -16,7 +16,7 @@ All apps listed are carefully vetted to ensure they follows certain rules. Each 
 
 *II. Trustworthy:* Fully Open Source, which assumes every line of the code of every node is open to all to see. It must be assumed that as soon as Open Source development is compromised, it’s only a matter of time until it’s no longer decentralized. For this reason plans should be in place for governance of the project to be open or decentralized as well.
 
-*III. Permissionless:* Accessible to absolutely everyone. If there are no Iranians, Venezuelans, and North Koreans using this software than it is a failure. Projects must be available for download through TOR and VPNs, making it as widely available as possible.
+*III. Permissionless:* Accessible to absolutely everyone. If there are no Iranians, Venezuelans, and North Koreans using this software then it is a failure. Projects must be available for download through TOR and VPNs, making it as widely available as possible.
 
 *IV. Free-Speech aligned:* Supportive of free speech. No one in the app can unilaterally censor the speech of anyone else. Voting and paying for placement is fine, as long as it’s a fair market. Moderation powers can not be given to anyone, not even to a democratically-voted group of users. A preferred alternative is Gab’s style of self-curation.  
 
