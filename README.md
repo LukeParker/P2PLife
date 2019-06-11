@@ -38,3 +38,11 @@ All apps listed are carefully vetted to ensure they follows certain Rules:
 * Search
 * VR
 * Meshnet
+
+
+# Future Growth:
+I'll be providing reviews on all projects, but a forum for further discussion on each would be great. Maybe Gab's Dissenter is all we need but it would be nice to display talk about the project, and maybe a tweet feed stream from their dev team on each project review page.
+
+
+# Endgame:
+An eventual goal for the P2P community is to get all the devs of all these reveiewed projects to share a common P2P identity solution. Who knows which, could be decades off.
