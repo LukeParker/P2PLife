@@ -12,9 +12,9 @@ Starting source for finding truly P2P apps: https://wiki.p2pfoundation.net/Categ
 # THE RULES
 All apps listed are carefully vetted to ensure they follows certain Rules: 
 
-*I. Uncensorable:* All must be Fully P2P, meaning no federations, masternodes, central coordinators nor central escrow. Every node runs the same software as every other node on the network.
+*I. Uncensorable:* All must be Fully P2P, meaning no federations, masternodes, central coordinators nor central escrow. Every node runs the same software as every other node on the network. 
 
-*II. Trustworthy:* Fully Open Source, which means every line of the code of every node is open to all to see. “Without Open Source development, it’s only a matter of time until it’s no longer decentralized.”
+*II. Trustworthy:* Fully Open Source, which means every line of the code of every node is open to all to see. It must be assumed that as soon as Open Source development is compromised, it’s only a matter of time until it’s no longer decentralized. For this reason plans should be in place for governance of the project to be open or decentralized as well.
 
 *III. Permissionless:* If there are no Iranians, Venezuelans, and North Koreans using this software than it is a failure. Projects must be available for download through TOR and VPNs, making it as widely available as possible.  
 
